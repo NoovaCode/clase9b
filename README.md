@@ -1,13 +1,12 @@
-# clase9b
 >[!NOTE]
 >
 >This is a standard NOTE block.
 
->>[!TIP]
+>[!TIP]
 >
 >This is a standard TIP.
 
->>[!IMPORTANT]
+>[!IMPORTANT]
 >
 >This is an IMPORTANT note.
 
